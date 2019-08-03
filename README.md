@@ -1,1 +1,1 @@
-# lgorithm-practice-2
+# algorithm-practice-2
